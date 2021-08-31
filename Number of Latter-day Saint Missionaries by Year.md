@@ -2,12 +2,12 @@
 
 media: report
 author: Golding, David
-title: Latter-day Saint Missionaries Called by Year, 1830–2020
-url: https://github.com/opensourcehistory/lds-missionaries/blob/main/Latter-day%20Saint%20Missionaries%20Called%20by%20Year.md
+title: Number of Latter-day Saint Missionaries by Year, 1830–2020
+url: https://github.com/opensourcehistory/lds-missionaries/blob/main/Number%20of%20Latter-day%20Saint%20Missionaries%20by%20Year.md
 
 ---
 
-# Latter-day Saint Missionaries Called by Year, 1830–2020
+# Number of Latter-day Saint Missionaries by Year, 1830–2020
 David Golding
 
 | Year | Number of Missionaries Called | Source                      |
