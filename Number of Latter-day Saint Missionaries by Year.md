@@ -10,7 +10,7 @@ url: https://github.com/opensourcehistory/lds-missionaries/blob/main/Number%20of
 # Number of Latter-day Saint Missionaries by Year, 1830–2020
 David Golding
 
-| Year | Number of Missionaries Called | Source                      |
+| Year | Number of Missionaries        | Source                      |
 | ---- | ----------------------------- | --------------------------- |
 | 1830 | 16                            | *Church Almanac* (2013)[^1] |
 | 1831 | 58                            |                             |
