@@ -2,12 +2,13 @@
 
 media: report
 author: Golding, David
-title: Number of Latter-day Saint Missionaries by Year, 1830–2020
+title: Number of Latter-day Saint Missionaries by Year, 1830–2021
 url: https://github.com/opensourcehistory/lds-missionaries/blob/main/Number%20of%20Latter-day%20Saint%20Missionaries%20by%20Year.md
 
 ---
 
-# Number of Latter-day Saint Missionaries by Year, 1830–2020
+# Number of Latter-day Saint Missionaries by Year, 1830–2021
+
 David Golding
 
 | Year | Number of Missionaries        | Source                      |
@@ -202,7 +203,8 @@ David Golding
 | 2017 | 67049                         | Newsroom (2018)[^7]         |
 | 2018 | 65137                         | Newsroom (2019)[^8]         |
 | 2019 | 67021                         | Newsroom (2020)[^9]         |
-| 2020 | 51819                         | Newsroom (2021)[^10]        | 
+| 2020 | 51819                         | Newsroom (2021)[^10]        |
+| 2021 | 54539                         | Newsroom (2022)[^11]        |
 
 [^1]: *Church Almanac: 2013* (Salt Lake City: Deseret News, 2013), 210. All data points derive from this almanac unless otherwise noted.
 [^2]: “2012 Statistical Report for 2013 April General Conference,” The Church of Jesus Christ of Latter-day Saints, Newsroom (April 6, 2013), https://newsroom.churchofjesuschrist.org/article/2012-statistical-report-2013-april-general-conference.
@@ -214,3 +216,4 @@ David Golding
 [^8]: “2018 Statistical Report for April 2019 Conference,” The Church of Jesus Christ of Latter-day Saints, Newsroom (April 6, 2019), https://newsroom.churchofjesuschrist.org/article/2018-statistical-report.
 [^9]: “2019 Statistical Report for April 2020 Conference,” The Church of Jesus Christ of Latter-day Saints, Newsroom (April 4, 2020), https://newsroom.churchofjesuschrist.org/article/2019-statistical-report.
 [^10]: “2020 Statistical Report for the April 2021 Conference,” The Church of Jesus Christ of Latter-day Saints, Newsroom (April 3, 2021), https://newsroom.churchofjesuschrist.org/article/april-2021-general-conference-statistical-report.
+[^11]: “2021 Statistical Report for the April 2022 Conference,” The Church of Jesus Christ of Latter-day Saints, Newsroom (April 2, 2022), https://newsroom.churchofjesuschrist.org/article/2021-statistical-report-april-2022-conference.
