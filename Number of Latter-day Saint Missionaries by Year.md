@@ -205,6 +205,8 @@ David Golding
 | 2019 | 67021                         | Newsroom (2020)[^9]         |
 | 2020 | 51819                         | Newsroom (2021)[^10]        |
 | 2021 | 54539                         | Newsroom (2022)[^11]        |
+| 2022 | 62544                         | Newsroom (2023)[^12]        |
+| 2023 | 67871                         | Newsroom (2024)[^13]        |
 
 [^1]: *Church Almanac: 2013* (Salt Lake City: Deseret News, 2013), 210. All data points derive from this almanac unless otherwise noted.
 [^2]: “2012 Statistical Report for 2013 April General Conference,” The Church of Jesus Christ of Latter-day Saints, Newsroom (April 6, 2013), https://newsroom.churchofjesuschrist.org/article/2012-statistical-report-2013-april-general-conference.
@@ -217,3 +219,5 @@ David Golding
 [^9]: “2019 Statistical Report for April 2020 Conference,” The Church of Jesus Christ of Latter-day Saints, Newsroom (April 4, 2020), https://newsroom.churchofjesuschrist.org/article/2019-statistical-report.
 [^10]: “2020 Statistical Report for the April 2021 Conference,” The Church of Jesus Christ of Latter-day Saints, Newsroom (April 3, 2021), https://newsroom.churchofjesuschrist.org/article/april-2021-general-conference-statistical-report.
 [^11]: “2021 Statistical Report for the April 2022 Conference,” The Church of Jesus Christ of Latter-day Saints, Newsroom (April 2, 2022), https://newsroom.churchofjesuschrist.org/article/2021-statistical-report-april-2022-conference.
+[^12]: “2022 Statistical Report for the April 2023 Conference,” The Church of Jesus Christ of Latter-day Saints, Newsroom (April 1, 2022), https://newsroom.churchofjesuschrist.org/article/2022-statistical-report-april-2023-conference.
+[^13]: “2023 Statistical Report of the Church of Jesus Christ of Latter-day Saints,” The Church of Jesus Christ of Latter-day Saints, Newsroom (April 6, 2024), https://newsroom.churchofjesuschrist.org/article/2021-statistical-report-april-2022-conference.
