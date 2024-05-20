@@ -2,12 +2,12 @@
 
 media: report
 author: Golding, David
-title: Number of Latter-day Saint Missionaries by Year, 1830–2021
+title: Number of Latter-day Saint Missionaries by Year, 1830–2023
 url: https://github.com/opensourcehistory/lds-missionaries/blob/main/Number%20of%20Latter-day%20Saint%20Missionaries%20by%20Year.md
 
 ---
 
-# Number of Latter-day Saint Missionaries by Year, 1830–2021
+# Number of Latter-day Saint Missionaries by Year, 1830–2023
 
 David Golding
 
@@ -220,4 +220,4 @@ David Golding
 [^10]: “2020 Statistical Report for the April 2021 Conference,” The Church of Jesus Christ of Latter-day Saints, Newsroom (April 3, 2021), https://newsroom.churchofjesuschrist.org/article/april-2021-general-conference-statistical-report.
 [^11]: “2021 Statistical Report for the April 2022 Conference,” The Church of Jesus Christ of Latter-day Saints, Newsroom (April 2, 2022), https://newsroom.churchofjesuschrist.org/article/2021-statistical-report-april-2022-conference.
 [^12]: “2022 Statistical Report for the April 2023 Conference,” The Church of Jesus Christ of Latter-day Saints, Newsroom (April 1, 2022), https://newsroom.churchofjesuschrist.org/article/2022-statistical-report-april-2023-conference.
-[^13]: “2023 Statistical Report of the Church of Jesus Christ of Latter-day Saints,” The Church of Jesus Christ of Latter-day Saints, Newsroom (April 6, 2024), https://newsroom.churchofjesuschrist.org/article/2021-statistical-report-april-2022-conference.
+[^13]: “2023 Statistical Report of the Church of Jesus Christ of Latter-day Saints,” The Church of Jesus Christ of Latter-day Saints, Newsroom (April 6, 2024), https://newsroom.churchofjesuschrist.org/article/2023-statistical-report-church-jesus-christ.
